@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-- 🌱 I’m currently learning **HTMl, CSS, JavaScript**
+- 🌱 I’m currently learning **HTMl, CSS, JavaScript, C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
